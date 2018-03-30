@@ -32,6 +32,46 @@ jupyter notebook
 
 ```
 
+## Experiment
+
+### Data Collection: 
+ Data is collected from http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
+
+### Methods 
+Deep Learning - Recurrent Neural Network 
+Machine Learning - Decision Tree, Support Vector Machine, GradientBoosting
+
+
+### Run 
+Go the models/
+### Result 
+'''
+{
+    "accuracy": 0.9649122807017544,
+    "confusion_matrix": [
+        [
+            134,
+            4
+        ],
+        [
+            4,
+            86
+        ]
+    ],
+    "hyper_parameters": {
+        "learning_rate": 0.1
+    },
+    "labels": [
+        "Malignant",
+        "benign"
+    ],
+    "precision": 0.9306302794022092,
+    "recall": 0.9555555555555556
+}
+'''
+
+
+
 
 
 

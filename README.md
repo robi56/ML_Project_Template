@@ -39,12 +39,17 @@ jupyter notebook
 
 ### Methods 
 Deep Learning - Recurrent Neural Network 
+
 Machine Learning - Decision Tree, Support Vector Machine, GradientBoosting
 
 
 ### Run 
-Go the models/
+- Go the models/machine_learning/decision_tree 
+- Run the main.py file 
+- Result will be saved of results folder
 ### Result 
+Every Run of a script gives a new result file  which contains the information like below 
+
 ```
 {
     "accuracy": 0.9649122807017544,

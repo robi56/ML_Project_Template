@@ -1,0 +1,8 @@
+{
+    "accuracy": "0.9122807",
+    "hyper_parameters": "{'learning_rate': 0.001}",
+    "labels": [
+        "Malignant",
+        "benign"
+    ]
+}

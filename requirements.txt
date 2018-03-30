@@ -1,0 +1,7 @@
+sklearn
+pandas
+matplotlib
+tensorflow
+keras
+gensim
+unidecode

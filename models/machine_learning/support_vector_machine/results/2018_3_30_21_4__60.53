@@ -1,0 +1,21 @@
+{
+    "accuracy": 0.6052631578947368,
+    "confusion_matrix": [
+        [
+            138,
+            0
+        ],
+        [
+            90,
+            0
+        ]
+    ],
+    "hyper_parameters": {
+        "C": 1
+    },
+    "labels": [
+        "Malignant",
+        "benign"
+    ],
+    "precision": 0.39473684210526316
+}

@@ -1,0 +1,19 @@
+{
+    "accuracy": 0.9254385964912281,
+    "confusion_matrix": [
+        [
+            125,
+            13
+        ],
+        [
+            4,
+            86
+        ]
+    ],
+    "labels": [
+        "Malignant",
+        "benign"
+    ],
+    "precision": 0.8476224230610195,
+    "recall": 0.9555555555555556
+}

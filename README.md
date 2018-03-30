@@ -46,7 +46,7 @@ Machine Learning - Decision Tree, Support Vector Machine, GradientBoosting
 ### Run 
 - Go the models/machine_learning/decision_tree 
 - Run the main.py file 
-- Result will be saved of results folder
+- Result will be saved in results folder
 ### Result 
 Every Run of a script gives a new result file  which contains the information like below 
 

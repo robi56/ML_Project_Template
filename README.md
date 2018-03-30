@@ -45,7 +45,7 @@ Machine Learning - Decision Tree, Support Vector Machine, GradientBoosting
 ### Run 
 Go the models/
 ### Result 
-'''
+```
 {
     "accuracy": 0.9649122807017544,
     "confusion_matrix": [
@@ -68,7 +68,7 @@ Go the models/
     "precision": 0.9306302794022092,
     "recall": 0.9555555555555556
 }
-'''
+```
 
 
 

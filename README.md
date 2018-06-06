@@ -7,6 +7,8 @@ pip3 install --upgrade pip
 
 pip3 install jupyter
 ```
+## Pip3 Installation Problem Solution
+https://stackoverflow.com/questions/49836676/python-pip3-cannot-import-name-main-error-after-upgrading-pip?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 
 ## Setting Python  RunTime via virtual environment 
 
